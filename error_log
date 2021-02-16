@@ -1,0 +1,40 @@
+[24-Nov-2020 03:13:04 UTC] PHP Fatal error:  Call to undefined function recirect() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 51
+[24-Nov-2020 03:30:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/patascom/public_html/e_kontrak/application/controllers/Login.php on line 52
+[24-Nov-2020 03:41:18 UTC] PHP Fatal error:  Call to undefined function decrypt() in /home/patascom/public_html/e_kontrak/application/models/M_Login.php on line 11
+[24-Nov-2020 03:41:55 UTC] PHP Fatal error:  Call to undefined function decrypt() in /home/patascom/public_html/e_kontrak/application/models/M_Login.php on line 11
+[24-Nov-2020 06:24:58 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:06 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:07 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:08 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:08 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:09 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 68
+[24-Nov-2020 06:25:40 UTC] PHP Fatal error:  Cannot redeclare DataMaster::viewEditDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 67
+[24-Nov-2020 06:47:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/patascom/public_html/e_kontrak/application/views/user/v_editDataUser.php on line 61
+[24-Nov-2020 06:48:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/patascom/public_html/e_kontrak/application/views/user/v_editDataUser.php on line 61
+[24-Nov-2020 06:48:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/patascom/public_html/e_kontrak/application/views/user/v_editDataUser.php on line 61
+[24-Nov-2020 06:53:12 UTC] PHP Fatal error:  Cannot redeclare DataMaster::simpanDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 66
+[24-Nov-2020 06:53:56 UTC] PHP Fatal error:  Cannot redeclare DataMaster::simpanDataVendor() in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 66
+[27-Nov-2020 08:54:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/patascom/public_html/e_kontrak/application/views/kontrak/v_editDataAmendKontrak.php on line 57
+[01-Dec-2020 07:20:33 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard.php on line 1
+[01-Dec-2020 07:23:55 UTC] PHP Fatal error:  Call to a member function gegetQuery() on null in /home/patascom/public_html/e_kontrak/application/controllers/Home.php on line 19
+[01-Dec-2020 07:24:03 UTC] PHP Fatal error:  Call to a member function getQuery() on null in /home/patascom/public_html/e_kontrak/application/controllers/Home.php on line 19
+[11-Dec-2020 02:28:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 570
+[15-Dec-2020 02:56:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/patascom/public_html/e_kontrak/application/views/userView/v_userView.php on line 211
+[06-Jan-2021 04:02:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/user/v_dataUser.php on line 78
+[08-Jan-2021 07:30:40 UTC] PHP Fatal error:  Call to undefined function edirect() in /home/patascom/public_html/e_kontrak/application/controllers/Login.php on line 30
+[16-Jan-2021 02:34:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/template/default_sidenavs.php on line 101
+[16-Jan-2021 02:34:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/template/default_sidenavs.php on line 101
+[16-Jan-2021 02:34:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/template/default_sidenavs.php on line 101
+[16-Jan-2021 02:34:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/template/default_sidenavs.php on line 101
+[16-Jan-2021 03:20:22 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 173
+[16-Jan-2021 03:20:29 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 173
+[16-Jan-2021 03:20:33 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 173
+[16-Jan-2021 08:17:54 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard_vendor.php on line 59
+[16-Jan-2021 08:18:08 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard_vendor.php on line 59
+[16-Jan-2021 08:18:09 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard_vendor.php on line 59
+[16-Jan-2021 08:18:31 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard_vendor.php on line 59
+[16-Jan-2021 08:18:32 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/patascom/public_html/e_kontrak/application/views/dashboard/v_dashboard_vendor.php on line 59
+[18-Jan-2021 04:04:08 UTC] PHP Fatal error:  Call to undefined function encrypt() in /home/patascom/public_html/e_kontrak/application/views/template/default_sidenavs.php on line 45
+[18-Jan-2021 04:10:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/patascom/public_html/e_kontrak/application/views/user/v_dataUser.php on line 80
+[18-Jan-2021 04:17:43 UTC] PHP Fatal error:  Call to undefined function decryptIt() in /home/patascom/public_html/e_kontrak/application/views/user/v_editDataUser.php on line 71
+[18-Jan-2021 08:12:32 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/patascom/public_html/e_kontrak/application/controllers/DataMaster.php on line 171
